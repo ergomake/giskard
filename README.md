@@ -1,3 +1,5 @@
+# magic
+
 <p align="center">
   <img alt="giskardlogo" src="readme/correct_logo.png">
 </p>
